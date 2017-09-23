@@ -16,7 +16,7 @@ The code requires 6 data files be present in order to run.
 
 Five of these are from the UK 2011 census and can therefore be made available
 here under the terms of the UK's Open Government License.   Download the file 
-ukdata.tar.gz and gunzip and untar it in the same directory as apop.py.
+ukdata.zip and unzip and untar it in the same directory as apop.py.
 
 The last data file is UN Copyright and must therefore be downloaded directly
 from the un.org website.  Download Table A.5 from 
