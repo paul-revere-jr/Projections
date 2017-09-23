@@ -20,7 +20,7 @@ ukdata.tar.gz and gunzip and untar it in the same directory as apop.py.
 
 The last data file is UN Copyright and must therefore be downloaded directly
 from the un.org website.  Download Table A.5 from 
-http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfr2012/MainFrame.html 
+www.un.org/en/development/desa/population/publications/dataset/fertility/wfr2012/WFR_2012/Data_and_sources.html
 and save it as "TABLE A.5. Period fertility indicators.xlsx" without the 
 quotes in the same directory as apop.py.
 
